@@ -1,9 +1,18 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Bar Chart Bar"
+author: "Andrea Stašková"
+date: '2022'
+categories: R
+output: 
+  html_document:
+  toc: true
+  theme: hugo-book
+  number_sections: true
+  toc_float: true
+tags:
+- R Markdown
+- plot
+- regression
 ---
 
 ```{r setup, include=FALSE}
